@@ -1,0 +1,22 @@
+.container{
+    width: 65vw;
+    height: vh;
+    border: 2px solid purple;
+    margin-top: 2vh;
+    margin-left: 20vw;
+}
+body{
+    background-color: plum;
+    color: black
+    
+}
+.submit{
+    padding-left: 22vw;
+}
+.star{
+    color: red;
+}
+.error-input{
+    color: red;
+    display: none;
+}

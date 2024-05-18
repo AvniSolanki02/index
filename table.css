@@ -1,0 +1,23 @@
+body{
+   
+    /* color:   cornsilk; */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    background-color:aqua;
+    padding: 15px;
+}
+
+.index{
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    border-radius: 25px;
+}
+
+.index:hover{
+    transform: scale(2.5);    
+    cursor: pointer;
+    transition: transform 2s;
+}
